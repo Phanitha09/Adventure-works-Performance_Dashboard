@@ -2,6 +2,7 @@
 Interactive Sales Analytics Dashboard built using Excel and Power Query.
 
 **Tool Used**
+
 Microsoft Excel - Power Query, Pivot Tables, Pivot Charts, Slicers
 
 **Key Features**
@@ -12,6 +13,7 @@ Microsoft Excel - Power Query, Pivot Tables, Pivot Charts, Slicers
 - Interactive Dashboard
 
 **Dataset Used**
+
 Adventure Works Sales Dataset including:
 - FactInternetSales
 - FactInternetSalesNew
@@ -23,6 +25,7 @@ Adventure Works Sales Dataset including:
 - DimProductSubCategory
 
 **Key Steps Performed**
+
 ✅ Appended and cleaned datasets
 ✅ Handled null values and transformed data
 ✅ Merged Product & Customer tables
